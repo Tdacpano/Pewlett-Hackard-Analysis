@@ -6,6 +6,7 @@ In the first deliverable we were able to filter the data to show which employees
 <img width="736" alt="Screen Shot 2023-01-11 at 10 24 58 AM" src="https://user-images.githubusercontent.com/117120227/211887595-58088397-8d8c-4f23-85ee-d58e342cd8c6.png">
 Additionally, we dropped any employees who have already left the company to limit unnecessary data, then we created a table to show how many potential retirees there are based on their position title.
 <img width="353" alt="Screen Shot 2023-01-11 at 10 25 16 AM" src="https://user-images.githubusercontent.com/117120227/211887642-94fac625-477b-405c-b86a-1f4459bff92f.png">
+
 In the second deliverable we created a table that shows individuals who are eilgible for mentorship based on if they were born between January 1, 1965 and December 31, 1965, and is still a current employee. We were then able to order the table based on employee number in ascending order. 
 <img width="734" alt="Screen Shot 2023-01-11 at 10 27 52 AM" src="https://user-images.githubusercontent.com/117120227/211888176-101b99f7-8238-408f-bac2-3a80904fe9d5.png">
 # Summary:
