@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
-# Overview of the analysis: Explain the purpose of this analysis.
+# Overview of the analysis:
 The purpose of this analysis was to assist Pewlett Hackard in dealing with potential reitrees within the company and coming up with solutions to help fill these future positions. We were given the assignment of determining the number of retiring employees per title, and identifing the employees who are eligible to participate in a mentorship program. This will help ease the transition of the "Silver Tsunanmi".
-# Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+# Results:
 In the first deliverable we were able to filter the data to show which employees were "baby booomers" or born between 1952 and 1955. This allows us to gain an idea of how many employees may be up for retirement.
 <img width="736" alt="Screen Shot 2023-01-11 at 10 24 58 AM" src="https://user-images.githubusercontent.com/117120227/211887595-58088397-8d8c-4f23-85ee-d58e342cd8c6.png">
 Additionally, we dropped any employees who have already left the company to limit unnecessary data, then we created a table to show how many potential retirees there are based on their position title.
